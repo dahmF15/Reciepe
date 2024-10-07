@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.container {
+  @apply bg-white w-[60vh] h-[145vh] rounded-3xl ml-40;
+}
+
+.container2 {
+  @apply bg-fuchsia-100 w-[70vh] h-[16vh] mt-12 ml-8 rounded-3xl;
+}
+
+.title {
+  @apply font-bold text-4xl text-left ml-6;
+}
+
+.disc {
+  @apply font-thin text-xl text-left ml-6 mt-3;
+}
+
+.title2 {
+  @apply text-pink-950 font-bold text-2xl text-left ml-12 pt-4;
+  margin-top: 30px;
+}
+
+.title3{
+  @apply font-bold text-4xl text-left ml-6 mt-6 text-orange-800;
+}
+
+.List{
+  color: #9D7F8E;
+  
+}
+
